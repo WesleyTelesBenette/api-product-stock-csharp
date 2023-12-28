@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-product-stock-csharp", "api-product-stock-csharp.csproj", "{D025C0FE-8D15-41C4-B82F-E13F6809989C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D025C0FE-8D15-41C4-B82F-E13F6809989C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D025C0FE-8D15-41C4-B82F-E13F6809989C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D025C0FE-8D15-41C4-B82F-E13F6809989C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D025C0FE-8D15-41C4-B82F-E13F6809989C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25983DA-53B3-46FC-B582-FBC5552E48C0}
+	EndGlobalSection
+EndGlobal
