@@ -1,9 +1,10 @@
 ﻿# API de Estoque
 
 ## ✨ Visão Geral
-É uma API simples, para o gerenciamento de um estoque genérico de mercado ou similares.<br/>
+É uma API simples, para o gerenciamento de um estoque genérico de mercado ou similares.
+
 Embora as funcionalidades sejam diretas e comuns, ainda sim é um sistema bem completo, com uma
-variedade interessante de recursos e manipulações de dados. <br/>
+variedade interessante de recursos e manipulações de dados.
 
 ## 🏬 Arquitetura
 
@@ -13,7 +14,7 @@ A API utiliza a arquitetura ***Monólito***, tendo em vista que o software se co
 
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/architecture.png" width="600" />
 
-Dividindo a arquitetura dessa forma, acredito que supre eficientemente os objetivos do projeto.
+Dividindo a arquitetura dessa forma, acredito que satisfaça eficientemente os objetivos do projeto.
 
 ## Banco de Dados
 
