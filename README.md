@@ -17,7 +17,7 @@ Tendo em vista que o software se concentra numa **única aplicação**, a escolh
 Dividindo a arquitetura dessa forma, acredito que satisfaça eficientemente os objetivos do projeto.
 
 ## 🎲 Banco de Dados
-Construido com ***PostgreSQL***, o banco de dados foi arquitetado utilizando representações visuais, como: ***MER*** e ***DER***.
+Construído com ***PostgreSQL***, o banco de dados foi arquitetado utilizando representações visuais, como: ***MER*** e ***DER***.
 
 ### Modelo Entidade Relacionamento
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/MER.png" width="600" />
