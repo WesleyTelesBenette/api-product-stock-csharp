@@ -23,11 +23,7 @@ Construído com ***PostgreSQL***, o banco de dados foi arquitetado utilizando re
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/MER.png" width="600" />
 
 ### Diagrama Entidade Relacionamento
-<!--
-<img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/architecture.png" width="600" />
--->
-> [!NOTE]
-> Em breve...
+<img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/DER.png" width="600" />
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 - Linguagem de Programação: ***C#***.
