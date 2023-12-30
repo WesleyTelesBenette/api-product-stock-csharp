@@ -33,20 +33,10 @@ Os diagramas utilizados são:
 - 📦 Classe: para ser um guia de implementação, agilizando o desenvolvimento e fornecendo um suporte visual para futuras manutenções.
 
 ### Caso de Uso
-<!--
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/caso-de-uso.png" width="600" />
--->
-
-> [!NOTE]
-> Em breve...
 
 ### Classe
-<!--
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/classe.png" width="600" />
--->
-
-> [!NOTE]
-> Em breve...
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 - Linguagem de Programação: ***C#***.
