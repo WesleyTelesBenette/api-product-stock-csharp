@@ -28,14 +28,14 @@ Construído com ***PostgreSQL*** (por comodismo), o banco de dados foi arquiteta
 ## 📑 UML
 A um nível mais baixo de desenvolvimento estão os diagramas UML, com mais detalhes sobre os métodos e como vai ser implementado o sistema de fato.
 
-Os diagramas utilizados são:
+Os diagramas utilizados foram:
 - 🔍 [**Caso de Uso**](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml): para ser possível obter uma visão mais geral e até mesmo leiga, de como funciona o sistema.
 - 📦 [**Classe**](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml): para ser um guia de implementação, agilizando o desenvolvimento e fornecendo um suporte visual para futuras manutenções.
 
-### Caso de Uso
+### Diagrama de Caso de Uso
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/caso-de-uso.png" width="600" />
 
-### Classe
+### Diagrama de Classe
 <img src="https://github.com/WesleyTelesBenette/my-sources-for-docs/blob/main/api-product-stock/classe.png" width="600" />
 
 ## 🛠️ Ficha Técnica
