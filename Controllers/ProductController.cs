@@ -19,13 +19,13 @@ public class ProductController : Controller
     }
 
     [HttpGet("/id/{id}")]
-    public IActionResult GetProductId(int id)
+    public IActionResult GetProductId(int idProduct)
     {
         return Ok();
     }
 
     [HttpGet("/category/{category}")]
-    public IActionResult GetProductCategory(string category)
+    public IActionResult GetProductsCategory(string category)
     {
         return Ok();
     }
@@ -37,13 +37,13 @@ public class ProductController : Controller
     }
 
     [HttpPut("/{id}")]
-    public IActionResult UpdateProduct(int id, [FromBody] object newUpdateProduct)
+    public IActionResult UpdateProduct(int idProduct, [FromBody] object newUpdateProduct)
     {
         return Ok();
     }
 
     [HttpDelete("/{id}")]
-    public IActionResult DeleteProduct(int id)
+    public IActionResult DeleteProduct(int idProduct)
     {
         return Ok();
     }
