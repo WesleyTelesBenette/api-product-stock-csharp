@@ -45,3 +45,6 @@ Os diagramas utilizados foram:
 - 🎲 **Banco de Dados**: [PostgreSQL](https://www.postgresql.org/docs/).
 - 🗄️ **Hospedagens Banco de Dados**: [ElephantSQL](https://www.elephantsql.com/).
 - 🔌 **Testes de Conexão**: [Postman](https://www.postman.com/).
+
+## 💡 Extra
+Versão em Node.js: [Em breve...]()
