@@ -1,4 +1,12 @@
+using api_product_stock_csharp.Data;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var connectionString = builder.Configuration.GetConnectionString("Database");
+builder.Services.AddDbContext<StockContext>(opts => opts.UseNpgsql(connectionString));
 
 // Add services to the container.
 
